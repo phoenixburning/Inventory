@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inventaire</string>
+    <string name="labelBtQuit">Quitter</string>
+    <string name="labelTvTitle">Articles en stock</string>
+    <string name="labelBtAddItem">Ajouter un article</string>
+    <string name="labelBtListItems">Liste des articles</string>
+    <string name="labelEtReference">Référence</string>
+    <string name="labelEtName">Désignation</string>
+    <string name="labelEtAmount">Quantité</string>
+    <string name="labelEtPrice">Prix</string>
+    <string name="labelBtBack">Retour</string>
+    <string name="labelBtAdd">Ajouter</string>
+    <string name="labelTvReference">Référence</string>
+    <string name="labelTvName">Désignation</string>
+    <string name="labelTvPrice">Prix</string>
+    <string name="labelTvAmount">Quantité</string>
+</resources>

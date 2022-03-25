@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="labelTvTitle">Articles en stock</string>
+    <string name="labelBtAddItem">Add item</string>
+    <string name="labelBtListItems">List of items</string>
+    <string name="labelBtQuit">Quit</string>
+    <string name="labelEtReference">Reference</string>
+    <string name="labelEtName">Name</string>
+    <string name="labelEtAmount">Amount</string>
+    <string name="labelEtPrice">Price</string>
+    <string name="labelBtBack">Back</string>
+    <string name="labelBtAdd">Add</string>
+    <string name="labelTvReference">Reference</string>
+    <string name="labelTvName">Name</string>
+    <string name="labelTvPrice">Price</string>
+    <string name="labelTvAmount">Amount</string>
+    <string name="labelAddReference">Reference</string>
+    <string name="labelTvTitleAdd">Title</string>
+</resources>
